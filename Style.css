@@ -458,7 +458,7 @@ nav #contact-btn:hover{
     font-size: 70px;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
-.section-skill .section-skill-first>button{
+.section-skill .section-skill-first>a>button{
     border: 1px solid #a3a3a5;
     background-color: #252734;
     color: #fff;
